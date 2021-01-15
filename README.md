@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### Hi! I'm [F7ionsy](https://lihengdong.com/) 👋🏼
 
-I'm a **Student**  and[my blog](https://lihengdong.com/) ✍️
+I'm a **Student**  and [my blog](https://lihengdong.com/) ✍️
 
 <p>
   <a href="https://github.com/F7ionsy">
